@@ -16,6 +16,3 @@
 [![](https://visitcount.itsvg.in/api?id=Phitococofunto&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-  <img src="https://your-image-url.com/elephant.png" alt="Elephant" width="300"/>
-</div>
